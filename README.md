@@ -41,7 +41,7 @@
   </div>
 
   <script>
-    const apiKey = "9e9ba5c3a9044b4b6019dcb0acd60e3d"; // Remplacez par votre clé OpenWeather
+    const apiKey = "46199ab001b421db05238e89d51a1571"; // Remplacez par votre clé OpenWeather
     const ville = "Lombard,FR";
     const url = `https://api.openweathermap.org/data/2.5/forecast?q=${ville}&units=metric&lang=fr&appid=${apiKey}`;
 
